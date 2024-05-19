@@ -1,127 +1,3 @@
-<!-- <h1 align="center">Hi all, I am M. Ahmad Jawad! 👋
-</h1>
-
-<h2 align="center">👋 Hello there! Welcome to my GitHub profile, where creativity meets code. I'm M. Ahmad Jawad, a passionate software developer on a journey to craft elegant solutions to complex problems. Here's a glimpse into the vast universe of technologies I've explored and mastered:
-</h2>
-
-## Frontend Sorcery 🎨
-
-Diving into the frontend realm, I've conjured captivating user experiences with:
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-&nbsp;&nbsp;![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-&nbsp;&nbsp;![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-&nbsp;&nbsp;![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-&nbsp;&nbsp;![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-&nbsp;&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-## Backend Wizardry ⚙️
-
-Venturing into the backend domain, I've wielded powerful tools to construct robust server-side solutions:
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-&nbsp;&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-&nbsp;&nbsp;![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-&nbsp;&nbsp;![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white)
-&nbsp;&nbsp;![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-&nbsp;&nbsp;![Mongoose](https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white)
-&nbsp;&nbsp;![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-&nbsp;&nbsp;![Contentful](https://img.shields.io/badge/Contentful-43CD80?style=for-the-badge&logo=contentful&logoColor=white)
-&nbsp;&nbsp;![REST API](https://img.shields.io/badge/REST_API-009696?style=for-the-badge&logo=rest&logoColor=white)
-&nbsp;&nbsp;![Axios](https://img.shields.io/badge/Axios-0096FF?style=for-the-badge&logo=axios&logoColor=white)
-
-### API Development
-
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-&nbsp;&nbsp;![OAuth](https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white)
-
-## DevOps Enchantment 🚀
-
-Navigating the DevOps landscape, I've orchestrated seamless deployment pipelines and infrastructure:
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-&nbsp;&nbsp;![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-&nbsp;&nbsp;![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## Code Editors & IDEs
-
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## Clouds
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-## Programming Languages 🌟
-
-Embracing the versatility of various programming languages, I've mastered:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-## Creative Alchemy 🎨
-
-In my creative pursuits, I've explored the art of design and multimedia:
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-## Continuous Learning 📚
-
-Amidst my journey, I'm continuously expanding my horizons and mastering new technologies:
-
-### Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### API Development
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009696?style=for-the-badge&logo=fastapi&logoColor=white)
-&nbsp;&nbsp;![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### Data Analysis for python development 📊
-
-Empowering data-driven decisions with:
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-&nbsp;&nbsp;![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Type Checking for python development🧪
-
-Ensuring code reliability with:
-
-![mypy](https://img.shields.io/badge/mypy-000000?style=for-the-badge&logo=mypy&logoColor=white)
-
-## My Consistency Graph:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedjawad1857&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
-
-## GitHub Stats:
-
-[![Ahmedjawad1857's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedjawad1857&show_icons=true&locale=en)](https://github.com/ahmedjawad1857)
-
-## Top Languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjawad1857&layout=compact)](https://github.com/ahmedjawad1857)
-
-## Repository Views:
-
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedjawad1857)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedjawad1857&show_icons=true&locale=en&layout=compact" alt="ahmedjawad1857" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedjawad1857&show_icons=true&locale=en" alt="ahmedjawad1857" /></p>
-
-## Do you want to learn these skills follow me on my youtube
-
-[![Subscribe to my YouTube Channel](https://img.shields.io/badge/Subscribe-Code%20with%20Ahmad-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@code-with-ahmad2009?sub_confirmation=1)
-
-## Feel free to explore my github Repositories...
-
-[![Ahmedjawad1857's GitHub](https://img.shields.io/badge/GitHub-ahmedjawad1857-black?style=for-the-badge&logo=github&logoColor=white&logoWidth=20)](https://github.com/ahmedjawad1857) -->
 
 <h1 align="center">Hi all, I am M. Ahmad Jawad! 👋
 </h1>
@@ -137,26 +13,26 @@ Diving into the frontend realm, I've conjured captivating user experiences with:
 &nbsp;&nbsp;[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=css)
 &nbsp;&nbsp;[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
 &nbsp;&nbsp;[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=typescript)
-&nbsp;&nbsp;[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
-[![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
-&nbsp;&nbsp;[![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
-&nbsp;&nbsp;[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
-&nbsp;&nbsp;[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
+&nbsp;&nbsp;[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=typescript)
+[![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=typescript)
+&nbsp;&nbsp;[![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=typescript)
+&nbsp;&nbsp;[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=typescript)
+&nbsp;&nbsp;[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=typescript)
 
 ## Backend Wizardry ⚙️
 
 Venturing into the backend domain, I've wielded powerful tools to construct robust server-side solutions:
 
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
-&nbsp;&nbsp;[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
-&nbsp;&nbsp;[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
-&nbsp;&nbsp;[![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
-&nbsp;&nbsp;[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
-&nbsp;&nbsp;[![Mongoose](https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
-&nbsp;&nbsp;[![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
-&nbsp;&nbsp;[![Contentful](https://img.shields.io/badge/Contentful-43CD80?style=for-the-badge&logo=contentful&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
-&nbsp;&nbsp;[![REST API](https://img.shields.io/badge/REST_API-009696?style=for-the-badge&logo=rest&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
-&nbsp;&nbsp;[![Axios](https://img.shields.io/badge/Axios-0096FF?style=for-the-badge&logo=axios&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
+&nbsp;&nbsp;[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=typescript)
+&nbsp;&nbsp;[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=typescript)
+&nbsp;&nbsp;[![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=typescript)
+&nbsp;&nbsp;[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=typescript)
+&nbsp;&nbsp;[![Mongoose](https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=typescript)
+&nbsp;&nbsp;[![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=typescript)
+&nbsp;&nbsp;[![Contentful](https://img.shields.io/badge/Contentful-43CD80?style=for-the-badge&logo=contentful&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=typescript)
+&nbsp;&nbsp;[![REST API](https://img.shields.io/badge/REST_API-009696?style=for-the-badge&logo=rest&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=typescript)
+&nbsp;&nbsp;[![Axios](https://img.shields.io/badge/Axios-0096FF?style=for-the-badge&logo=axios&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=typescript)
 
 ### API Development
 
@@ -220,9 +96,10 @@ Ensuring code reliability with:
 
 [![mypy](https://img.shields.io/badge/mypy-000000?style=for-the-badge&logo=mypy&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=python)
 
+
 ## My Consistency Graph:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedjawad1857&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedjawad1857&theme=highcontrast&layout=compact)](https://git.io/streak-stats)
 
 ## GitHub Stats:
 

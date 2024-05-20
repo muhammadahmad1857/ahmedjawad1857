@@ -95,13 +95,11 @@ Empowering data-driven decisions with:
 Ensuring code reliability with:
 
 [![mypy](https://img.shields.io/badge/mypy-000000?style=for-the-badge&logo=mypy&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=python)
-
-
 ## My Consistency Graph:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmedjawad1857)](https://git.io/streak-stats)
-## GitHub Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmedjawad1857&theme=merko&border_radius=30&card_width=500&card_height=194)](https://git.io/streak-stats)
 
+## Github Stats
 [![Ahmedjawad1857's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedjawad1857&show_icons=true&locale=en)](https://github.com/ahmedjawad1857)
 
 ## Top Languages:

@@ -99,8 +99,7 @@ Ensuring code reliability with:
 
 ## My Consistency Graph:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedjawad1857&theme=highcontrast&layout=compact)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmedjawad1857)](https://git.io/streak-stats)
 ## GitHub Stats:
 
 [![Ahmedjawad1857's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedjawad1857&show_icons=true&locale=en)](https://github.com/ahmedjawad1857)

@@ -70,19 +70,6 @@ In my creative pursuits, I've explored the art of design and multimedia:
 
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
 
-## Continuous Learning 📚
-
-Amidst my journey, I'm continuously expanding my horizons and mastering new technologies:
-
-### Mobile Development
-
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
-
-### API Development
-
-[![FastAPI](https://img.shields.io/badge/FastAPI-009696?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
-&nbsp;&nbsp;[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
-
 ### Data Analysis for python development 📊
 
 Empowering data-driven decisions with:
@@ -97,6 +84,21 @@ Ensuring code reliability with:
 [![mypy](https://img.shields.io/badge/mypy-000000?style=for-the-badge&logo=mypy&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=python)
 ## My Consistency Graph:
 
+
+## Continuous Learning 📚
+
+Amidst my journey, I'm continuously expanding my horizons and mastering new technologies:
+
+### Mobile Development
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
+
+### API Development
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-009696?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
+&nbsp;&nbsp;[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=javascript)
+
+## GitHub Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmedjawad1857&theme=merko&border_radius=30&card_width=500&card_height=194)](https://git.io/streak-stats)
 
 ## Github Stats

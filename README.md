@@ -82,7 +82,6 @@ Empowering data-driven decisions with:
 Ensuring code reliability with:
 
 [![mypy](https://img.shields.io/badge/mypy-000000?style=for-the-badge&logo=mypy&logoColor=white)](https://github.com/ahmedjawad1857?tab=repositories&q=&type=&language=python)
-## My Consistency Graph:
 
 
 ## Continuous Learning 📚

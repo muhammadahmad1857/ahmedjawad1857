@@ -109,7 +109,7 @@ Amidst my journey, I'm continuously expanding my horizons and mastering new tech
 
 ## Repository Views:
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedjawad1857)
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedjawad1857&style=flat-square)
 
 ## Do you want to learn these skills? Follow me on my YouTube!
 

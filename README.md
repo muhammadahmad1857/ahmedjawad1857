@@ -5,6 +5,9 @@
 <h2 align="center">👋 Hello there! Welcome to my GitHub profile, where creativity meets code. I'm M. Ahmad Jawad, a passionate software developer on a journey to craft elegant solutions to complex problems. Here's a glimpse into the vast universe of technologies I've explored and mastered:
 </h2>
 
+⚡ **Fun fact** _"If your code work well then don't touch it"_
+
+
 ## Frontend Sorcery 🎨
 
 Diving into the frontend realm, I've conjured captivating user experiences with:
@@ -120,5 +123,5 @@ Amidst my journey, I'm continuously expanding my horizons and mastering new tech
 [![Ahmedjawad1857's GitHub](https://img.shields.io/badge/GitHub-ahmedjawad1857-black?style=for-the-badge&logo=github&logoColor=white&logoWidth=20)](https://github.com/ahmedjawad1857)
 
 
-## Random dev quotes
-https://camo.githubusercontent.com/7f311c52df3a0bfc8058856a01f9a2e67986a83311ced9ca43e316333661c367/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

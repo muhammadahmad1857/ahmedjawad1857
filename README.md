@@ -118,3 +118,7 @@ Amidst my journey, I'm continuously expanding my horizons and mastering new tech
 ## Feel free to explore my GitHub repositories...
 
 [![Ahmedjawad1857's GitHub](https://img.shields.io/badge/GitHub-ahmedjawad1857-black?style=for-the-badge&logo=github&logoColor=white&logoWidth=20)](https://github.com/ahmedjawad1857)
+
+
+## Random dev quotes
+https://camo.githubusercontent.com/7f311c52df3a0bfc8058856a01f9a2e67986a83311ced9ca43e316333661c367/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c

@@ -110,9 +110,11 @@ Amidst my journey, I'm continuously expanding my horizons and mastering new tech
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjawad1857&layout=compact)](https://github.com/ahmedjawad1857)
 
-## Repository Views:
-
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedjawad1857&style=flat-square)
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{emanuelangelo}/count.svg" /></p> 
+<br>
+</div>
 
 ## Do you want to learn these skills? Follow me on my YouTube!
 

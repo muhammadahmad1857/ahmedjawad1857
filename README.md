@@ -112,7 +112,7 @@ Amidst my journey, I'm continuously expanding my horizons and mastering new tech
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{emanuelangelo}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ahmedjawad1857}/count.svg" /></p> 
 <br>
 </div>
 

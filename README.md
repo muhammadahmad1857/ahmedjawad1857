@@ -110,11 +110,14 @@ Amidst my journey, I'm continuously expanding my horizons and mastering new tech
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjawad1857&layout=compact)](https://github.com/ahmedjawad1857)
 
-<div align="center">
-<br><h1 align="centre"><b>Visitors Count</b></h1>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ahmedjawad1857}/count.svg" /></p> 
-<br>
-</div>
+
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ahmedjawad1857&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+
+## Visitors Count
+  <img align="center" src="https://profile-counter.glitch.me/{ahmedjawad1857}/count.svg" />
 
 ## Do you want to learn these skills? Follow me on my YouTube!
 
